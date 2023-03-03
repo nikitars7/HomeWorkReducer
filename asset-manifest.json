@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HomeWorkReducer/static/css/main.e6c13ad2.css",
+    "main.js": "/HomeWorkReducer/static/js/main.d303068a.js",
+    "static/js/787.8f1b1af8.chunk.js": "/HomeWorkReducer/static/js/787.8f1b1af8.chunk.js",
+    "index.html": "/HomeWorkReducer/index.html",
+    "main.e6c13ad2.css.map": "/HomeWorkReducer/static/css/main.e6c13ad2.css.map",
+    "main.d303068a.js.map": "/HomeWorkReducer/static/js/main.d303068a.js.map",
+    "787.8f1b1af8.chunk.js.map": "/HomeWorkReducer/static/js/787.8f1b1af8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d303068a.js"
+  ]
+}
